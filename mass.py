@@ -1,2 +1,3 @@
-mass_1 = input('')
 mass = 100
+
+mas_2_output = mass2*200
