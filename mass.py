@@ -1,2 +1,2 @@
-mass_1 = input()
+mass_1 = input('')
 mass = 100
