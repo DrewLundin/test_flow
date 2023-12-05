@@ -1,3 +1,3 @@
 mass = 100
 
-mas_2_output = mass2*200
+mass_2_output = 400
